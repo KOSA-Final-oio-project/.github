@@ -39,7 +39,7 @@
 | 팀장 | 팀원 | 팀원 | 팀원 | 팀원 |
 | --- | --- | --- | --- | --- |
 | ![title](https://avatars.githubusercontent.com/u/73880564?v=4)  | ![title](https://avatars.githubusercontent.com/u/109050392?v=4)     | ![title](https://avatars.githubusercontent.com/u/116627270?v=4)   |![title](https://avatars.githubusercontent.com/u/76928632?v=4)   |![title](https://avatars.githubusercontent.com/u/142878178?v=4)    |
-| 전세인 | 김자성 | 김학윤 | 조홍식 | 최하영 |
+| [전세인](https://github.com/jeonsein) | [김자성](https://github.com/jaseongkim) | [김학윤](https://github.com/khakyy) | [조홍식](https://github.com/hongsikcho) | [최하영](https://github.com/h0ci) |
 
 
 </br>
