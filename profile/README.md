@@ -79,9 +79,6 @@
 </br>
 
 ## ⚙ 기술 스택
-**[ Front-end ]**
-
-
 **[ Back-end ]**
 
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
