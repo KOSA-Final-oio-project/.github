@@ -51,7 +51,6 @@
 
 ## 🗓️ 타임라인 
 ![title](https://velog.velcdn.com/images/wonizizi99/post/f1f19117-fbc2-4237-9311-285e4a83de04/image.png)   
-바꿔야됨
 
 </br>
 </br>
@@ -61,7 +60,6 @@
 ## 🖥️ 서비스 아키텍쳐
 
 ![title](https://velog.velcdn.com/images/wonizizi99/post/3f32d2fd-f94d-4162-aef8-68154bcc9410/image.png)   
-바꿔야됨
 
 </br>
 </br>
