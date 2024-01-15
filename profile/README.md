@@ -50,7 +50,7 @@
 
 
 ## 🗓️ 타임라인 
-![title](https://velog.velcdn.com/images/wonizizi99/post/f1f19117-fbc2-4237-9311-285e4a83de04/image.png)   
+![title](https://velog.velcdn.com/images/khakyy/post/39dc1ff2-6aff-4b72-ae66-e8bd65a252b3/image.png)   
 
 </br>
 </br>
