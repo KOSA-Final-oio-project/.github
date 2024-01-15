@@ -7,13 +7,13 @@
 
 ### 개인간 대여 중개 플랫폼
 
- 🗓️[팀노션](https://www.notion.so/sengnapersonal/Final-Project-4133fcea052e441e88d62e1c730d2d29)   
+🗓️[팀노션](https://www.notion.so/sengnapersonal/Final-Project-4133fcea052e441e88d62e1c730d2d29)   
 
 
-🗒️[와이어 프레임!](https://www.figma.com/file/xdfx0YbGocYqKrOKNGPbWJ/%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?type=design&node-id=0%3A1&mode=design&t=etoNxu6l3XsywahS-1)   
+🗒️[와이어 프레임](https://www.figma.com/file/xdfx0YbGocYqKrOKNGPbWJ/%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?type=design&node-id=0%3A1&mode=design&t=etoNxu6l3XsywahS-1)   
 
 
-🎥 [시연연상](https://youtu.be/RlTI8Lz8Ly4)   
+🎥[시연연상](https://youtu.be/RlTI8Lz8Ly4)   
 </div>
 </br>
 </br>
@@ -59,7 +59,7 @@
 
 ## 🖥️ 서비스 아키텍쳐
 
-![title](https://velog.velcdn.com/images/wonizizi99/post/3f32d2fd-f94d-4162-aef8-68154bcc9410/image.png)   
+![title](https://velog.velcdn.com/images/khakyy/post/340ce728-2c70-4f9c-9cd5-4c6689117839/image.png)   
 
 </br>
 </br>
@@ -67,29 +67,32 @@
 </br>
 
 ## ⚙ 개발 환경
-**[ Back-end ]**
-- java 11
-- IDE: InteliJ, VSCode
-- Framework: springboot(2.7.17)
-- Database: Oracle, MySQL
-- ORM: JPA
+![title](https://velog.velcdn.com/images/khakyy/post/3562bcf6-2c91-46d3-bd02-c3ec969bf198/image.png)
 </br>
 </br>
 </br>
 </br>
 
-## ⚙ 기술 스택(수정중)
+## ⚙ 기술 스택
+**[ Front-end ]**
+
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
+
 **[ Back-end ]**
 
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
     
 **[ Database ]**
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 **[ Server ]**
 
- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white"> 
+ <img src="https://img.shields.io/badge/Amazon S3-69A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+
+ **[ Message Queue ]**
+
+ <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">
 
 **[ Cowork tools ]**
    
