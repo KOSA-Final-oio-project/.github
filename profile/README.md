@@ -84,21 +84,70 @@
 
 ## 👥 주요기능
 
-![ApplicationFrameHost_53kW3Wx8ay](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/b8cd8147-f691-44fb-af28-9d981903be0d)
-
-![1DLbFs0ChA](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/f203b0ac-82f3-4170-9e45-ab22fad76a5e)
-
-![IM0FUrfMiv](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/8e0ba31f-a63b-4d87-95be-47fd732164ed)
-
-![IxDUPJJqtp](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/bf43ac8a-f947-4409-81d2-8c56b87624e6)
+## 회원가입
+<details>
+  <summary>회원가입</summary> 
+- 설명.<br>
+- 설명.<br>
 
 ![KMMFSvIv9I](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/578f031f-9ff9-44fd-ad3f-9c314ba05274)
+</details>
+
+## 마이페이지(대여완료)
+<details>
+  <summary>마이페이지(대여완료)</summary> 
+- 설명.<br>
+- 설명.<br>
 
 ![XOilEvLHgf](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/1f665ea1-0530-41b0-a930-3b6196caf962)
+</details>
+
+## 대여 물품 등록
+<details>
+  <summary>대여 물품 등록</summary> 
+- 설명.<br>
+- 설명.<br>
+  
+![ApplicationFrameHost_53kW3Wx8ay](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/b8cd8147-f691-44fb-af28-9d981903be0d)
+</details>
+
+## 대여 물품 조회
+<details>
+  <summary>대여 물품 조회</summary> 
+- 설명.<br>
+- 설명.<br>
+    
+![1DLbFs0ChA](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/f203b0ac-82f3-4170-9e45-ab22fad76a5e)
+</details>
+
+## 실시간 채팅 및 거래
+<details>
+  <summary>실시간 채팅 및 거래</summary> 
+- 설명.<br>
+- 설명.<br>
+
+![IM0FUrfMiv](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/8e0ba31f-a63b-4d87-95be-47fd732164ed)
+</details>
+
+## 게시판(Q&A 및 공지사항)
+<details>
+  <summary>게시판(Q&A 및 공지사항)</summary> 
+- 설명.<br>
+- 설명.<br>
+
+![IxDUPJJqtp](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/bf43ac8a-f947-4409-81d2-8c56b87624e6)
+</details>
+
+## Kafka(서로 다른 DB의 동기화)
+<details>
+  <summary>Kafka(서로 다른 DB의 동기화)</summary> 
+- 설명.<br>
+- 설명.<br>
 
 ![Image20240125170454](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/cd0ce1dd-f7e3-43ab-9110-e2ed85678bbc)
-
 ![Image20240125163435](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/f93bcb9a-f303-402a-93f2-f09bb0f3dfd0)
+</details>
+
 
 
 ## ⚙ 기술 스택
