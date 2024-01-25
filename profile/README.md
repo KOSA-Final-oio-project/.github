@@ -66,12 +66,36 @@
 </br>
 </br>
 
+## 🖥️ ERD
+
+![Image20240125163438](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/2460979f-87e6-48a7-8419-94bd389f2eda)
+
+</br>
+</br>
+</br>
+</br>
+
 ## ⚙ 개발 환경
 ![title](https://velog.velcdn.com/images/khakyy/post/3562bcf6-2c91-46d3-bd02-c3ec969bf198/image.png)
 </br>
 </br>
 </br>
 </br>
+
+## 👥 주요기능
+
+![ApplicationFrameHost_53kW3Wx8ay](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/b8cd8147-f691-44fb-af28-9d981903be0d)
+
+![1DLbFs0ChA](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/f203b0ac-82f3-4170-9e45-ab22fad76a5e)
+
+![IM0FUrfMiv](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/8e0ba31f-a63b-4d87-95be-47fd732164ed)
+
+![IxDUPJJqtp](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/bf43ac8a-f947-4409-81d2-8c56b87624e6)
+
+![KMMFSvIv9I](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/578f031f-9ff9-44fd-ad3f-9c314ba05274)
+
+![XOilEvLHgf](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/1f665ea1-0530-41b0-a930-3b6196caf962)
+
 
 ## ⚙ 기술 스택
 **[ Front-end ]**
