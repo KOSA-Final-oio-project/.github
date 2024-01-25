@@ -68,7 +68,7 @@
 
 ## 🖥️ ERD
 
-![Image20240125163438](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/2460979f-87e6-48a7-8419-94bd389f2eda)
+![Image20240125165418](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/e2b9fd4c-a86f-4c0c-8406-4526cd9a9702)
 
 </br>
 </br>
@@ -95,6 +95,10 @@
 ![KMMFSvIv9I](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/578f031f-9ff9-44fd-ad3f-9c314ba05274)
 
 ![XOilEvLHgf](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/1f665ea1-0530-41b0-a930-3b6196caf962)
+
+![Image20240125170454](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/cd0ce1dd-f7e3-43ab-9110-e2ed85678bbc)
+
+![Image20240125163435](https://github.com/KOSA-Final-oio-project/.github/assets/109050392/f93bcb9a-f303-402a-93f2-f09bb0f3dfd0)
 
 
 ## ⚙ 기술 스택
