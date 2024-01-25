@@ -1,9 +1,9 @@
-<div align=center>
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKOSA-Final-oio-project&count_bg=%2318B7BD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-<p align="center"><img src="https://velog.velcdn.com/images/khakyy/post/c94af349-2708-4fb7-ab4a-e800dd49f6da/image.png" height="200px" width="200px"></p>
+<p align=center><img src="https://velog.velcdn.com/images/khakyy/post/c94af349-2708-4fb7-ab4a-e800dd49f6da/image.png" height="200px" width="200px"></p>
 
-#  OIO
+# OIO(공유하세요! 일상을 공일공에서)
 
 ### 개인간 대여 중개 플랫폼
 
@@ -14,13 +14,8 @@
 
 
 🎥[시연연상](https://youtu.be/RlTI8Lz8Ly4)   
-</div>
-</br>
-</br>
-</br>
-</br>
-</br>
 
+</br>
 
 ## 💁‍♀️ 서비스 소개
 >23.11.24 ~ 23.12.21
@@ -30,19 +25,17 @@
 ###### 하나의 업체가 상품을 소유, 관리하는 것이 아닌 사용자 간의 거래를 가능하게 하여 더 다양한 물품을 서로 공유하고, 공유를 보다 일상에 가깝게 할 수 있도록 하고자 했습니다.
 </br>
 
-## 👥 OIO
+## 👷‍♂️ OIO
 
 | 팀장 | 팀원 | 팀원 | 팀원 | 팀원 |
 | --- | --- | --- | --- | --- |
 | ![title](https://avatars.githubusercontent.com/u/73880564?v=4)  | ![title](https://avatars.githubusercontent.com/u/109050392?v=4)     | ![title](https://avatars.githubusercontent.com/u/116627270?v=4)   |![title](https://avatars.githubusercontent.com/u/76928632?v=4)   |![title](https://avatars.githubusercontent.com/u/142878178?v=4)    |
 | [전세인](https://github.com/jeonsein) | [김자성](https://github.com/jaseongkim) | [김학윤](https://github.com/khakyy) | [조홍식](https://github.com/hongsikcho) | [최하영](https://github.com/h0ci) |
 
-
 </br>
 </br>
 </br>
 </br>
-
 
 ## 🗓️ 타임라인 
 ![title](https://velog.velcdn.com/images/khakyy/post/39dc1ff2-6aff-4b72-ae66-e8bd65a252b3/image.png)   
@@ -52,7 +45,7 @@
 </br>
 </br>
 
-## 🖥️ 서비스 아키텍쳐
+## ⛓ 서비스 아키텍쳐
 
 ![title](https://velog.velcdn.com/images/khakyy/post/340ce728-2c70-4f9c-9cd5-4c6689117839/image.png)   
 
@@ -77,7 +70,7 @@
 </br>
 </br>
 
-## 👥 주요기능
+## 📰 주요기능
 
 ## 회원가입
 <details>
@@ -173,3 +166,5 @@
 </br>
 </br>
 </br>
+
+## 🛠 트러블슈팅
